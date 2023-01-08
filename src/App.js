@@ -26,3 +26,5 @@ const App = () => {
 }
 
 export default App
+
+/* Creating these parts at the start make the coding process easy */
